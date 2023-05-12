@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Replace onnx2tf usage from CLI to Python (#8429)
