@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update H1 in Explorer API docs (#7813)
