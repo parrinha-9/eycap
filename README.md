@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
