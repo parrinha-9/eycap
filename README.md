@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Explorer with LanceDB, Actions and Docs updates (#7487)
