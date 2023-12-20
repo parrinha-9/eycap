@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Compress docs images (#8124)
