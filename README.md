@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Fix RTDETR generate anchor grid out of boundary (#7247)
