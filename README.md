@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
