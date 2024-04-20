@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Compress docs images (#8124)
