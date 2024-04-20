@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update Discord and Contributing Guide URLs (#9270)
