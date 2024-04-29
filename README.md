@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
