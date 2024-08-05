@@ -1,1 +1,1 @@
-example Google Colab
+Python refactorings and simplifications (#7549)
