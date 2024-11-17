@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
