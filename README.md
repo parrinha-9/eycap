@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
